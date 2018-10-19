@@ -1,0 +1,1214 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"California"	"06"	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	54	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Intracerebral haemorrhage in brain stem"	"I61.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	129	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	51	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Cerebral infarction, unspecified"	"I63.9"	59	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	440	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Sequelae of cerebral infarction"	"I69.3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	102	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	88	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	34	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Intracerebral haemorrhage, intraventricular"	"I61.5"	13	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	128	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	34	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Cerebral infarction, unspecified"	"I63.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	439	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Sequelae of cerebral infarction"	"I69.3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	94	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	87	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	32	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Intracerebral haemorrhage in brain stem"	"I61.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	139	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries"	"I63.2"	11	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Cerebral infarction, unspecified"	"I63.9"	51	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	414	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Sequelae of cerebral infarction"	"I69.3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	97	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	89	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Intracerebral haemorrhage in brain stem"	"I61.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	104	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	33	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Cerebral infarction, unspecified"	"I63.9"	49	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	403	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	85	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	79	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"May, 1999"	"1999/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"May, 1999"	"1999/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	138	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"May, 1999"	"1999/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	50	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"May, 1999"	"1999/05"	"Cerebral infarction, unspecified"	"I63.9"	38	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"May, 1999"	"1999/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	368	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"May, 1999"	"1999/05"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"May, 1999"	"1999/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	81	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"May, 1999"	"1999/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	67	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	57	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	108	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Cerebral infarction, unspecified"	"I63.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	392	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	66	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	61	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	113	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Cerebral infarction, unspecified"	"I63.9"	32	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	360	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	76	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	68	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	126	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	28	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Cerebral infarction, unspecified"	"I63.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	377	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	76	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	75	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	38	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	112	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	27	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Cerebral infarction, unspecified"	"I63.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	356	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	70	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	83	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Subarachnoid haemorrhage from intracranial artery, unspecified"	"I60.7"	14	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	113	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Cerebral infarction, unspecified"	"I63.9"	53	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	350	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Cerebrovascular disease, unspecified"	"I67.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	75	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	61	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	128	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Cerebral infarction, unspecified"	"I63.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	421	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	80	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	69	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	150	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Cerebral infarction, unspecified"	"I63.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	511	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Cerebrovascular disease, unspecified"	"I67.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Sequelae of cerebral infarction"	"I69.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	123	Not Applicable	Not Applicable
+	"California"	"06"	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	82	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	128	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	53	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Cerebral infarction, unspecified"	"I63.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	570	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	128	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	74	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	119	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Cerebral infarction, unspecified"	"I63.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	432	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	79	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	59	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Intracerebral haemorrhage in brain stem"	"I61.3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	132	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Cerebral infarction, unspecified"	"I63.9"	58	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	408	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Cerebrovascular disease, unspecified"	"I67.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	91	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	89	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	107	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Cerebral infarction, unspecified"	"I63.9"	47	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	386	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	88	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"May, 2000"	"2000/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"May, 2000"	"2000/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	119	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"May, 2000"	"2000/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	33	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"May, 2000"	"2000/05"	"Cerebral infarction, unspecified"	"I63.9"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"May, 2000"	"2000/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	397	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"May, 2000"	"2000/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	87	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"May, 2000"	"2000/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	73	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	27	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	115	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	47	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Cerebral infarction, unspecified"	"I63.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	385	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	84	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	72	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	44	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	102	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Cerebral infarction, unspecified"	"I63.9"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	409	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Sequelae of cerebral infarction"	"I69.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	59	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	44	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	114	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Cerebral infarction, unspecified"	"I63.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	376	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	86	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	105	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	49	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Cerebral infarction, unspecified"	"I63.9"	29	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	387	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	85	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	84	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	129	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Cerebral infarction, unspecified"	"I63.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	388	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Sequelae of cerebral infarction"	"I69.3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	96	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	104	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	47	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Cerebral infarction, unspecified"	"I63.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	438	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	87	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	76	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Intracerebral haemorrhage in brain stem"	"I61.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	127	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	27	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Cerebral infarction, unspecified"	"I63.9"	47	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	470	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	89	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	76	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	138	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Cerebral infarction, unspecified"	"I63.9"	53	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	461	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Cerebrovascular disease, unspecified"	"I67.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	94	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	68	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	110	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Cerebral infarction, unspecified"	"I63.9"	38	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	394	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	98	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	90	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	130	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	51	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Cerebral infarction, unspecified"	"I63.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	451	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Cerebrovascular disease, unspecified"	"I67.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	92	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	95	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	131	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	34	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Cerebral infarction, unspecified"	"I63.9"	49	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	417	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	91	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	73	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"May, 2001"	"2001/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"May, 2001"	"2001/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	125	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"May, 2001"	"2001/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"May, 2001"	"2001/05"	"Cerebral infarction, unspecified"	"I63.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"May, 2001"	"2001/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	437	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"May, 2001"	"2001/05"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"May, 2001"	"2001/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	105	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"May, 2001"	"2001/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	67	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	34	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	104	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Cerebral infarction, unspecified"	"I63.9"	38	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	395	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	90	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	85	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	127	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	33	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Cerebral infarction, unspecified"	"I63.9"	44	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	384	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	71	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	67	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	51	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	119	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Cerebral infarction, unspecified"	"I63.9"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	372	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	56	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	44	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	115	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Cerebral infarction, unspecified"	"I63.9"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	368	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	62	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	44	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	113	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	49	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Cerebral infarction, unspecified"	"I63.9"	34	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	396	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Cerebrovascular disease, unspecified"	"I67.9"	20	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	86	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	34	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	99	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	57	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Cerebral infarction, unspecified"	"I63.9"	38	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	402	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Cerebrovascular disease, unspecified"	"I67.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	70	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	38	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	125	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Cerebral infarction, unspecified"	"I63.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	412	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	96	Not Applicable	Not Applicable
+	"California"	"06"	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	53	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	115	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	59	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Cerebral infarction, unspecified"	"I63.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	456	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	93	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	65	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	115	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries"	"I63.2"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Cerebral infarction, unspecified"	"I63.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	426	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	105	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	70	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	114	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Cerebral infarction, unspecified"	"I63.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	439	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Cerebrovascular disease, unspecified"	"I67.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	102	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	81	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	106	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Cerebral infarction, unspecified"	"I63.9"	51	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	409	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Sequelae of cerebral infarction"	"I69.3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	77	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	67	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"May, 2002"	"2002/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"May, 2002"	"2002/05"	"Intracerebral haemorrhage in brain stem"	"I61.3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"May, 2002"	"2002/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	119	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"May, 2002"	"2002/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"May, 2002"	"2002/05"	"Cerebral infarction, unspecified"	"I63.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"May, 2002"	"2002/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	391	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"May, 2002"	"2002/05"	"Cerebrovascular disease, unspecified"	"I67.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"May, 2002"	"2002/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"May, 2002"	"2002/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	51	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	106	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	56	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Cerebral infarction, unspecified"	"I63.9"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	385	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	94	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	66	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	112	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Cerebral infarction, unspecified"	"I63.9"	32	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	369	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	86	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	62	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	49	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	94	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Cerebral infarction, unspecified"	"I63.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	398	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	84	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	96	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	29	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Cerebral infarction, unspecified"	"I63.9"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	370	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	122	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Cerebral infarction, unspecified"	"I63.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	381	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	94	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	62	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	49	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	117	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Cerebral infarction, unspecified"	"I63.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	367	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	76	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	130	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	47	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Cerebral infarction, unspecified"	"I63.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	437	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	95	Not Applicable	Not Applicable
+	"California"	"06"	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	64	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	57	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Intracerebral haemorrhage in brain stem"	"I61.3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	141	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	72	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Cerebral infarction, unspecified"	"I63.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	426	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Cerebrovascular disease, unspecified"	"I67.9"	20	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	82	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	38	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	93	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	62	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Cerebral infarction, unspecified"	"I63.9"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	374	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Cerebrovascular disease, unspecified"	"I67.9"	20	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	103	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	108	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Cerebral infarction, unspecified"	"I63.9"	62	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	418	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Cerebrovascular disease, unspecified"	"I67.9"	18	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	97	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	89	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	58	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Intracerebral haemorrhage in brain stem"	"I61.3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	118	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Cerebral infarction, unspecified"	"I63.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	335	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Sequelae of cerebral infarction"	"I69.3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	84	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	72	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"May, 2003"	"2003/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"May, 2003"	"2003/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	96	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"May, 2003"	"2003/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	69	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"May, 2003"	"2003/05"	"Cerebral infarction, unspecified"	"I63.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"May, 2003"	"2003/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	392	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"May, 2003"	"2003/05"	"Cerebrovascular disease, unspecified"	"I67.9"	21	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"May, 2003"	"2003/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"May, 2003"	"2003/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	57	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	90	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Cerebral infarction, unspecified"	"I63.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	360	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	79	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	51	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	103	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Cerebral infarction, unspecified"	"I63.9"	38	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	337	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	75	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	44	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	100	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Cerebral infarction, unspecified"	"I63.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	361	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Cerebrovascular disease, unspecified"	"I67.9"	18	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	82	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	32	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	102	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Cerebral infarction, unspecified"	"I63.9"	59	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	359	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Cerebrovascular disease, unspecified"	"I67.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	99	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	63	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Cerebral infarction, unspecified"	"I63.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	345	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	87	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	57	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	115	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Cerebral infarction, unspecified"	"I63.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	379	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Cerebrovascular disease, unspecified"	"I67.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	91	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	57	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	125	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Cerebral infarction, unspecified"	"I63.9"	51	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	451	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Cerebrovascular disease, unspecified"	"I67.9"	19	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Sequelae of cerebral infarction"	"I69.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	103	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Intracerebral haemorrhage in brain stem"	"I61.3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	121	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	64	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Cerebral infarction, unspecified"	"I63.9"	57	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	454	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Cerebrovascular disease, unspecified"	"I67.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	103	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	69	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	101	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Cerebral infarction, unspecified"	"I63.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	386	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Cerebrovascular disease, unspecified"	"I67.9"	19	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	81	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	53	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	53	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Intracerebral haemorrhage in brain stem"	"I61.3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	112	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Cerebral infarction, unspecified"	"I63.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	373	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Cerebrovascular disease, unspecified"	"I67.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	90	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	65	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	90	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Cerebral infarction, unspecified"	"I63.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	380	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Cerebrovascular disease, unspecified"	"I67.9"	23	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	66	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"May, 2004"	"2004/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"May, 2004"	"2004/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	108	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"May, 2004"	"2004/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"May, 2004"	"2004/05"	"Cerebral infarction, unspecified"	"I63.9"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"May, 2004"	"2004/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	330	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"May, 2004"	"2004/05"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"May, 2004"	"2004/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	90	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"May, 2004"	"2004/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	56	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	27	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	96	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	51	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Cerebral infarction, unspecified"	"I63.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	350	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	82	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	95	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Cerebral infarction, unspecified"	"I63.9"	44	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	329	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Cerebrovascular disease, unspecified"	"I67.9"	24	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	96	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Cerebral infarction, unspecified"	"I63.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	343	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	70	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	63	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	112	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Cerebral infarction, unspecified"	"I63.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	353	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	85	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	133	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	56	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Cerebral infarction, unspecified"	"I63.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	303	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Cerebrovascular disease, unspecified"	"I67.9"	19	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	77	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	58	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	110	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Cerebral infarction, unspecified"	"I63.9"	32	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	350	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Cerebrovascular disease, unspecified"	"I67.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Sequelae of cerebral infarction"	"I69.3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	76	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Subarachnoid haemorrhage from intracranial artery, unspecified"	"I60.7"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	109	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	58	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Cerebral infarction, unspecified"	"I63.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	356	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	91	Not Applicable	Not Applicable
+	"California"	"06"	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	115	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	88	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Cerebral infarction, unspecified"	"I63.9"	28	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	380	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	91	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	34	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	105	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	49	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	351	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	79	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	47	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	115	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	79	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Cerebral infarction, unspecified"	"I63.9"	20	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	343	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	98	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	34	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	104	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	69	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Cerebral infarction, unspecified"	"I63.9"	23	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	331	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	100	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	59	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"May, 2005"	"2005/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"May, 2005"	"2005/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	115	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"May, 2005"	"2005/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"May, 2005"	"2005/05"	"Cerebral infarction, unspecified"	"I63.9"	19	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"May, 2005"	"2005/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	321	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"May, 2005"	"2005/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	90	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"May, 2005"	"2005/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	104	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Cerebral infarction, unspecified"	"I63.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	311	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	59	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	44	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	24	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	105	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Cerebral infarction, unspecified"	"I63.9"	18	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	291	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	77	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	100	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	295	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	73	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	59	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	33	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	107	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Cerebral infarction, unspecified"	"I63.9"	26	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	295	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	44	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	98	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Cerebral infarction, unspecified"	"I63.9"	20	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	344	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	79	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	95	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	63	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	295	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Cerebrovascular disease, unspecified"	"I67.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	75	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	38	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	121	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Cerebral infarction, unspecified"	"I63.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	364	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Cerebrovascular disease, unspecified"	"I67.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	95	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	71	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	111	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	67	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Cerebral infarction, unspecified"	"I63.9"	18	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	385	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	103	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	71	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	34	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	109	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	68	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Cerebral infarction, unspecified"	"I63.9"	23	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	308	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	57	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	111	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	56	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Cerebral infarction, unspecified"	"I63.9"	27	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	378	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	89	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	111	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	304	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Sequelae of cerebral infarction"	"I69.3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	56	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"May, 2006"	"2006/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	38	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"May, 2006"	"2006/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	99	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"May, 2006"	"2006/05"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"May, 2006"	"2006/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	56	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"May, 2006"	"2006/05"	"Cerebral infarction, unspecified"	"I63.9"	19	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"May, 2006"	"2006/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	309	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"May, 2006"	"2006/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	81	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"May, 2006"	"2006/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	101	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Cerebral infarction, unspecified"	"I63.9"	26	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	257	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	70	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	58	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	44	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	90	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	62	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Cerebral infarction, unspecified"	"I63.9"	15	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	326	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	79	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	38	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	33	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	53	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	298	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	71	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	53	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	41	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	82	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	57	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	286	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	62	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	96	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	305	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	73	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	89	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Cerebral infarction, unspecified"	"I63.9"	19	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	301	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	76	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	89	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	65	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Cerebral infarction, unspecified"	"I63.9"	22	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	337	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	96	Not Applicable	Not Applicable
+	"California"	"06"	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	106	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	72	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Cerebral infarction, unspecified"	"I63.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	357	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	101	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	92	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	295	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	100	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	110	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	329	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	97	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	51	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	26	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	101	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	70	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Cerebral infarction, unspecified"	"I63.9"	20	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	292	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	89	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"May, 2007"	"2007/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"May, 2007"	"2007/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	112	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"May, 2007"	"2007/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"May, 2007"	"2007/05"	"Cerebral infarction, unspecified"	"I63.9"	19	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"May, 2007"	"2007/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	291	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"May, 2007"	"2007/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	82	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"May, 2007"	"2007/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	58	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	95	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	264	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	65	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	33	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Intracerebral haemorrhage in brain stem"	"I61.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	63	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	261	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	65	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	49	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	31	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	93	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	49	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	295	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	77	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	63	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	276	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Cerebrovascular disease, unspecified"	"I67.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	31	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	106	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	70	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Cerebral infarction, unspecified"	"I63.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	294	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	74	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	49	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	96	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	76	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Cerebral infarction, unspecified"	"I63.9"	19	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	267	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	45	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	85	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	78	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Cerebral infarction due to embolism of cerebral arteries"	"I63.4"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Cerebral infarction, unspecified"	"I63.9"	18	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	328	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	88	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	31	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	91	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	66	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Cerebral infarction, unspecified"	"I63.9"	15	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	351	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	99	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	31	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	99	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	72	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	301	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	81	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	27	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	110	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	75	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Cerebral infarction, unspecified"	"I63.9"	15	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	316	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	85	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	86	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Cerebral infarction, unspecified"	"I63.9"	15	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	265	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	63	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"May, 2008"	"2008/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"May, 2008"	"2008/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	85	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"May, 2008"	"2008/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	69	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"May, 2008"	"2008/05"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"May, 2008"	"2008/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	300	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"May, 2008"	"2008/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"May, 2008"	"2008/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	86	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	58	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Cerebral infarction, unspecified"	"I63.9"	19	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	302	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	38	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	32	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	77	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	268	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	85	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	49	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	108	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Cerebral infarction, unspecified"	"I63.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	249	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	67	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	43	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	32	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	73	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	256	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	75	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	38	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	34	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	261	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	72	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	44	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	87	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	53	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	279	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	102	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	64	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Cerebral infarction, unspecified"	"I63.9"	21	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	279	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	75	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	98	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	64	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	318	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	94	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	28	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	78	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	58	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	299	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	73	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	31	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	88	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	74	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	292	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	65	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	32	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	33	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	93	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	79	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Cerebral infarction, unspecified"	"I63.9"	20	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	275	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Cerebrovascular disease, unspecified"	"I67.9"	15	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	27	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"May, 2009"	"2009/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"May, 2009"	"2009/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	71	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"May, 2009"	"2009/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"May, 2009"	"2009/05"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"May, 2009"	"2009/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	271	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"May, 2009"	"2009/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	77	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"May, 2009"	"2009/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	24	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	63	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	252	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	59	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	35	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Intracerebral haemorrhage in brain stem"	"I61.3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	60	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Cerebral infarction, unspecified"	"I63.9"	20	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	230	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	74	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	32	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	77	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Cerebral infarction, unspecified"	"I63.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	261	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	69	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	29	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	83	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	223	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	68	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	24	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	27	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	95	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	74	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	264	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	62	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	27	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	46	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	84	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	72	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Cerebral infarction, unspecified"	"I63.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	272	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Cerebrovascular disease, unspecified"	"I67.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	70	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	29	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	45	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	103	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	78	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	354	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	73	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	25	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	40	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	98	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	64	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	308	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	66	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	31	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Intracerebral haemorrhage in brain stem"	"I61.3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	88	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Cerebral infarction, unspecified"	"I63.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	280	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	75	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	21	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	48	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	86	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	87	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	281	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	68	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	106	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	68	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	298	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	64	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"May, 2010"	"2010/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	22	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"May, 2010"	"2010/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	87	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"May, 2010"	"2010/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	74	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"May, 2010"	"2010/05"	"Cerebral infarction due to embolism of cerebral arteries"	"I63.4"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"May, 2010"	"2010/05"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"May, 2010"	"2010/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	259	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"May, 2010"	"2010/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	66	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"May, 2010"	"2010/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	68	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Cerebral infarction, unspecified"	"I63.9"	15	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	242	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	64	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	32	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	99	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	57	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	264	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	24	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	94	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	58	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	248	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	73	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	26	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	32	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	87	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	247	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	54	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	31	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	95	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	55	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	262	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	25	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	91	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	72	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	272	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	27	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	89	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	73	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Cerebral infarction, unspecified"	"I63.9"	19	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	278	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	57	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	42	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Intracerebral haemorrhage in brain stem"	"I61.3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	53	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	259	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	84	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	18	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	29	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	95	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	64	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Cerebral infarction, unspecified"	"I63.9"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	263	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	82	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	36	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	47	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	112	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	67	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	276	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	91	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	102	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	252	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	79	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	32	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"May, 2011"	"2011/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"May, 2011"	"2011/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	85	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"May, 2011"	"2011/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	50	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"May, 2011"	"2011/05"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"May, 2011"	"2011/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	280	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"May, 2011"	"2011/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"May, 2011"	"2011/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	22	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	28	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	86	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	52	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	243	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Cerebrovascular disease, unspecified"	"I67.9"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	25	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	51	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	220	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	69	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	34	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	31	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	74	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Cerebral infarction, unspecified"	"I63.9"	15	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	246	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	61	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	25	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	33	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	82	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	77	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Cerebral infarction, unspecified"	"I63.9"	15	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	233	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	64	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	22	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	26	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	73	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	70	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	257	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	37	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	39	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	97	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	56	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Cerebral infarction due to embolism of cerebral arteries"	"I63.4"	11	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	251	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	72	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	25	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	30	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	101	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	71	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	313	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	97	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	25	Not Applicable	Not Applicable
